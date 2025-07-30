@@ -1,0 +1,3 @@
+https://v1.apiplugin.io/v1/currency/lvJlsFo0/rates?source=EUR get rates with other currency
+https://v1.apiplugin.io/v1/currency/lvJlsFo0/rates get rates with USD
+https://v1.apiplugin.io/v1/currency/lvJlsFo0/convert?amount=100&from=EUR&to=USD
